@@ -1,0 +1,31 @@
+1. User Authentication & Authorization:
+Two Login Portals:
+Instructor Portal: For managing projects and milestones.
+Student Portal: For viewing assigned projects and submitting work.
+2. Instructor Features:
+Dashboard for Project Management:
+
+Instructors can create, update, and delete projects (CRUD-based system).
+Each project can have multiple milestones.
+Milestone Management:
+
+Instructors can break down each project into milestones.
+Set a description and deadline for each milestone.
+GitHub Integration:
+
+Link each project to a GitHub repository.
+Automatically pull commit histories from the student's linked GitHub repository.
+Visualize commit frequency and key project activities.
+Monitor Submissions:
+
+View GitHub repository links submitted by students for each milestone.
+Check commit histories to ensure student progress aligns with milestones.
+3. Student Features:
+Project Overview:
+
+View assigned projects with their milestones and deadlines.
+See whether milestones have been submitted or are still pending.
+Milestone Submission:
+
+Submit a GitHub repository link for each milestone.
+Mark a milestone as completed once the link has been submitted.
